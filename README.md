@@ -9,7 +9,7 @@ I am a computer scientist and mathematician with interest in
 
 🎓 I have a [Master in Logic](https://msclogic.illc.uva.nl/) by the University of Amsterdam, and a Bachelor in Mathematics and another one in Computer Science by the University of Barcelona.
 
-🧑‍💻 I am currently working at [@wiris](https://github.com/wiris) as an integrations developer (see [@xripoll-at-wiris](https://github.com/xripoll-at-wiris)).
+🧑‍💻 I am currently working at [Formal Vindications](https://formalv.com/) trying to make software verification accessible to the general public.
 
 ✉️ You can find my contact info on [my website](https://xavi.rip).
 
